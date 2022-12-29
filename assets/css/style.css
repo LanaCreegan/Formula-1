@@ -11,5 +11,53 @@
 body {
     font-family: Hind, sans-serif;
     font-weight: 300;
+    color: #323031;
 }
 
+/* Headings and logo */
+
+h1, h2 {
+    font-family: Montserrat, sans-serif;
+    color: #323031; 
+    letter-spacing: 0.125rem;
+    
+}
+
+#logo {
+    text-align: center;
+    letter-spacing: 0.25rem;
+    font-size: 200%;
+    
+}
+
+/* Navigation links */
+
+#menu {
+    font-size: 100%;
+    letter-spacing: 0.125rem;
+    text-align: center;
+}
+
+#menu, #logo {
+    line-height: 2.00rem;
+}
+
+#menu li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 0.75rem;
+    
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 0.080rem solid #323031;
+}
+
+.active {
+    border-bottom: 0.080rem solid #323031;
+}
