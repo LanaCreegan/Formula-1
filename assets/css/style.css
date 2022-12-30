@@ -61,3 +61,37 @@ h1, h2 {
 .active {
     border-bottom: 0.080rem solid #323031;
 }
+
+/* hero image and cover text */
+
+#hero-outer {
+    height: 34.375rem;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#hero-image {
+    height: 35.625rem;
+    width: 100%;
+    background: url(../images/hero-image3.jpg) no-repeat center center;
+}
+
+#cover-text {
+    font-size: 100%;
+    font-family: Hind, sans-serif;
+    letter-spacing: 0.125rem;
+    text-align: center;
+    width: 12.5rem;
+    height: 5.625rem;
+    padding-top: 1.875rem;
+    padding-left: 0.313rem;
+    background-color: rgba(255, 255, 255, .7);
+    bottom: 0.625rem;
+    right: 6.875rem;
+    position: absolute;
+}
+
+#cover-text h2 {
+    color: #fafffd;
+}
