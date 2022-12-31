@@ -124,3 +124,10 @@ p {
 }
 
 
+.race-highlights {
+    display: block;
+    padding-top: 15%;
+    padding-left: 42%;
+    padding-right: 15%;
+    padding-bottom: 10%;
+}
