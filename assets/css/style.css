@@ -105,16 +105,22 @@ h1, h2 {
     width: 220px;
     max-height: 150%;
     max-width: 150%;
-    display: block;
+    
     margin-left: 20%;
     margin-right: 20%;
 }
 
 #history {
     text-align: center;
-    line-height: 5;
+    line-height: 10;
 }
 
 p {
-    text-align: center;  
+    height: 10px;
+    width: 10%;
+    display: block;
+    text-align: center;
+    line-height: 10;
 }
+
+
