@@ -23,6 +23,11 @@ h1, h2 {
     
 }
 
+.page-width{
+    width:1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
 #logo {
     text-align: center;
     letter-spacing: 0.25rem;
@@ -37,6 +42,7 @@ h1, h2 {
     font-size: 100%;
     letter-spacing: 0.125rem;
     text-align: center;
+    
 }
 
 #menu, #logo {
@@ -45,6 +51,7 @@ h1, h2 {
 
 #menu li {
     list-style-type: none;
+    text-align: center;
     display: inline-block;
     margin: 0.75rem;
     
@@ -115,14 +122,27 @@ h1, h2 {
     line-height: 10;
 }
 
-p {
-    height: 10px;
-    width: 10%;
-    display: block;
-    text-align: center;
-    line-height: 10;
+.service-container{
+    margin-top: 32px;
 }
 
+.image-container{
+    width: 33%;
+    max-width: 33%;
+    display: inline-block;
+}
+
+.text-container{
+    width: 64%;
+    max-width: 64%;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 16px;
+}
+
+.image-container img{
+    width: 100%;
+}
 
 .race-highlights {
     display: block;
@@ -131,3 +151,5 @@ p {
     padding-right: 15%;
     padding-bottom: 10%;
 }
+
+
