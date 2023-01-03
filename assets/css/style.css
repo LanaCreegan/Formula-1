@@ -196,6 +196,21 @@ h1, h2 {
     border-radius: 5px;
 }
 
+/* contact page */
+
+.contact-container {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.signup-container {
+    display: inline-block;
+    width: 64%;
+    max-width: 64%;
+    padding-left: 250px;
+    vertical-align: top;
+    text-align: center;
+}
 
 /* footer */
 
