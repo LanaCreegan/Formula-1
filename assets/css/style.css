@@ -200,6 +200,27 @@ h1, h2 {
 
 
 
+.signup-text {
+    width: 100%;
+    padding-left: 5x;
+    margin-left: -10px;
+    margin-right: 10px;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 3px;
+    text-align: center;  
+}
+
+.form-container {
+border: 1px solid black;
+border-radius: 5px;
+padding-left: 20px;
+margin-left: 200px;
+margin-right: 200px;
+text-align: center;
+
+}
+
 
 /* footer */
 
