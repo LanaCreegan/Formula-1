@@ -162,33 +162,29 @@ h1, h2 {
 
 .team-container {
     position: relative;
-    width: 1000px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
     padding: 30px;
     margin-top: 8%;
+    column-gap: 16px;
+    row-gap: 26px;
 }
 
 .team-container .team-box {
-    width: 308px;
+    width: 18%;
     position: relative;
-    height: 400px;
     background-color: aqua;
-    margin: 30px 10px;
-    padding: 20px 15px;
     display: flex;
     flex-direction: column;
-    margin-top: 5%;
 
 }
 
 .team-container .team-box .image-box {
     position: relative;
-    width: 260px;
-    height: 260px;
-    left: 20px;
+    padding: 16px;
+    
 }
 
 .team-container .team-box .image-box img {
@@ -202,7 +198,7 @@ h1, h2 {
 
 .signup-text {
     width: 100%;
-    padding-left: 5x;
+    padding-left: 5px;
     margin-left: -10px;
     margin-right: 10px;
     display: inline-block;
@@ -212,12 +208,12 @@ h1, h2 {
 }
 
 .form-container {
-border: 1px solid black;
-border-radius: 5px;
-padding-left: 20px;
-margin-left: 200px;
-margin-right: 200px;
-text-align: center;
+     border: 1px solid black;
+     border-radius: 5px;
+     padding-left: 20px;
+     margin-left: 200px;
+     margin-right: 200px;
+     text-align: center;
 
 }
 
