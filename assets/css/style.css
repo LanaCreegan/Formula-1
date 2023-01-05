@@ -162,7 +162,7 @@ h1, h2 {
 .highlights-text {
     padding-left: 25%;
 }
-    
+
 
 /*teams page*/
 
@@ -181,7 +181,6 @@ h1, h2 {
 .team-container .team-box {
     width: 18%;
     position: relative;
-    background-color: aqua;
     display: flex;
     flex-direction: column;
 
@@ -190,6 +189,7 @@ h1, h2 {
 .team-container .team-box .image-box {
     position: relative;
     padding: 16px;
+    background-color: rgb(105,105,105, 0.1);
     
 }
 
@@ -197,6 +197,7 @@ h1, h2 {
     max-width: 100%;
     border-radius: 5px;
 }
+
 
 /* contact page */
 
