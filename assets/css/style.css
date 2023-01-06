@@ -24,9 +24,10 @@ h1, h2 {
 }
 
 .page-width{
-    width:1200px;
-    max-width: 1200px;
+    
+    max-width: 1000px;
     margin: 0 auto;
+    padding: 0 16px;
 }
 #logo {
     text-align: center;
@@ -72,18 +73,24 @@ h1, h2 {
 
 /* hero image and cover text */
 
-#hero-outer {
-    height: 34.375rem;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
+section.hero{
+    background-image: url(../images/hero-image3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
+ section.hero .page-width{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
 
-#hero-image {
-    height: 35.625rem;
-    width: 100%;
-    background: url(../images/hero-image3.jpg) no-repeat center center;
-}
+ }
+
+ section.hero h1{
+    color:white;
+    padding-bottom: 40px;
+ }
 
 #cover-text {
     font-size: 100%;
@@ -125,18 +132,19 @@ h1, h2 {
 .service-container{
     margin-top: 32px;
     margin-bottom: 32px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
 }
 
 .image-container{
     width: 33%;
     max-width: 33%;
-    display: inline-block;
 }
 
 .text-container{
     width: 64%;
     max-width: 64%;
-    display: inline-block;
     vertical-align: top;
     padding-left: 16px;
 }
@@ -145,22 +153,18 @@ h1, h2 {
     width: 100%;
 }
 
-.race-highlights {
-    display: block;
-    padding-top: 15%;
-    padding-left: 42%;
-    padding-right: 15%;
-    padding-bottom: 10%;
-    margin: 0 auto;
+section.video{
+    padding: 90px 0;
 }
-
+.video-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 .heading {
     text-align: center;
     padding-top: 1%;
-}
-
-.highlights-text {
-    padding-left: 25%;
 }
 
 
@@ -228,7 +232,7 @@ h1, h2 {
 }
 
 .signup-text {
-    color: #fafffd;
+    color: #black;
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
@@ -259,7 +263,6 @@ h1, h2 {
 
 footer {
     height: 150px;
-
 }
 
 .social-networks {
@@ -275,4 +278,13 @@ footer {
 .social-networks i {
     font-size: 160%;
     color: #323031;
+}
+
+/* media quieries */
+/* For larger to medium screens size from 1200px and down */
+
+@media screen and (max-width: 1000px) {
+    .page-width {
+        max-width: 100%;
+    }
 }
