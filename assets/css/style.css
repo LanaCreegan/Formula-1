@@ -23,18 +23,18 @@ h1, h2 {
     
 }
 
-.page-width{
+.page-width {
     
     max-width: 1000px;
     margin: 0 auto;
     padding: 0 16px;
 }
+
 #logo {
     text-align: center;
     letter-spacing: 0.25rem;
     font-size: 200%;
     margin-left: 0.1rem;
-    
 }
 
 /* Navigation links */
@@ -73,18 +73,17 @@ h1, h2 {
 
 /* hero image and cover text */
 
-section.hero{
+section.hero {
     background-image: url(../images/hero-image3.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
- section.hero .page-width{
+ section.hero .page-width {
     height: 80vh;
     display: flex;
     justify-content: center;
     align-items: flex-end;
-
  }
 
  section.hero h1{
@@ -133,8 +132,6 @@ section.hero{
     margin-top: 32px;
     margin-bottom: 32px;
     display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
 }
 
 .image-container{
@@ -281,10 +278,24 @@ footer {
 }
 
 /* media quieries */
+
 /* For larger to medium screens size from 1200px and down */
 
 @media screen and (max-width: 1000px) {
     .page-width {
+        max-width: 100%;
+    }
+}
+
+/* For smaller screens size from 768px and down */
+
+@media screen and (max-width: 768px) {
+    .service-container{
+        flex-direction: column;
+    }
+
+    .image-container {
+        width: 100%;
         max-width: 100%;
     }
 }
