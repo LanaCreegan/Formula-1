@@ -38,7 +38,9 @@ h1, h2 {
     text-decoration: none;
 }
 
-
+#logo a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+}
 
 /* Navigation links */
 
