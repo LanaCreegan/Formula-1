@@ -154,7 +154,7 @@ section.hero {
     width: 100%;
 }
 
-section.video{
+section.video {
     padding: 90px 0;
 }
 
@@ -190,11 +190,10 @@ section.video{
 }
 
 .team-container .team-box {
-    width: 18%;
+    width: 16%;
     position: relative;
     display: flex;
     flex-direction: column;
-
 }
 
 .team-container .team-box .image-box {
@@ -224,6 +223,7 @@ section.video{
     max-width: 600px;
     position: relative;
     padding: 40px;
+    border-radius: 10px;
 }
 
 .signup-text h2 {
@@ -307,6 +307,13 @@ footer {
     .image-container {
         width: 100%;
         max-width: 100%;
+    }
+
+    .team-box {
+        flex-direction: column;
+       
+        max-width: 100%;
+        flex-wrap: wrap;
     }
 
 }
