@@ -186,7 +186,7 @@ section.video {
     position: relative;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: stretch;
     flex-wrap: wrap;
     padding: 30px;
     margin-top: 8%;
@@ -195,10 +195,9 @@ section.video {
 }
 
 .team-container .team-box {
-    width: 16%;
+    width: 48%;
     position: relative;
     display: flex;
-    flex-direction: column;
 }
 
 .team-container .team-box .image-box {
@@ -211,6 +210,9 @@ section.video {
 .team-container .team-box .image-box img {
     max-width: 100%;
     border-radius: 5px;
+    width: 33%;
+    height: 100px;
+    object-fit: contain;
 }
 
 
