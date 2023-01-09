@@ -115,6 +115,11 @@ section.hero {
     color: #fafffd;
 }
 
+@media screen and (max-width: 768px) {
+    section.hero .page-width {
+        height: 50vh;
+    }
+}
 /* about page */
 
 
@@ -285,6 +290,12 @@ footer {
 .social-networks i {
     font-size: 160%;
     color: #323031;
+}
+
+@media screen and (max-width: 768px) {
+    .social-networks > li {
+        margin: 0px 20px;
+    }
 }
 
 /* media quieries */
