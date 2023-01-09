@@ -182,6 +182,20 @@ section.video {
 
 /*teams page*/
 
+.teams-hero {
+    background-image: url(../images/ferrari-team-photo.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.teams-hero .page-width {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+ }
+
 .team-container {
     position: relative;
     display: flex;
@@ -276,7 +290,7 @@ section.video {
 /* footer */
 
 footer {
-    height: 150px;
+    padding: 64px 0;
 }
 
 .social-networks {
@@ -322,10 +336,9 @@ footer {
         max-width: 100%;
     }
 
-    .team-box {
-        flex-direction: column;
-       
+    .team-container .team-box {
         max-width: 100%;
+        width: 100%;
         flex-wrap: wrap;
     }
 
