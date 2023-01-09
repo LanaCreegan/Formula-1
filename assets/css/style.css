@@ -232,6 +232,13 @@ section.video {
 
 /* contact page */
 
+.contact {
+        background-image: url(../images/guenther-steiner.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+}
+
 .main-container {
     padding-top: 10%;
     padding-bottom: 10%;
