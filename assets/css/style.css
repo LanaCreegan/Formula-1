@@ -31,8 +31,10 @@ h1, h2 {
 }
 
 #logo {
+    text-align: center;
     letter-spacing: 0.25rem;
     font-size: 200%;
+    margin-left: 0.1rem;
     text-decoration: none;
 }
 
@@ -45,7 +47,7 @@ h1, h2 {
 #menu {
     font-size: 100%;
     letter-spacing: 0.125rem;
-    text-align: end;
+    text-align: center;
     
 }
 
@@ -113,13 +115,15 @@ section.hero {
     color: #fafffd;
 }
 
+/* media query for the hero image */
+
 @media screen and (max-width: 768px) {
     section.hero .page-width {
         height: 50vh;
     }
 }
-/* about page */
 
+/* about page */
 
 .f1-history img {
     height: 240px;
@@ -181,7 +185,7 @@ section.video {
 /*teams page*/
 
 .teams-hero {
-    background-image: url(../images/ferrari-team-photo.jpg);
+    background-image: url(../images/hero-image3.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -231,7 +235,7 @@ section.video {
 /* contact page */
 
 .contact {
-        background-image: url(../images/guenther-steiner.jpg);
+        background-image: url(../images/ferrari-flag-background.jpg);
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -312,6 +316,8 @@ footer {
     font-size: 160%;
     color: #323031;
 }
+
+/* media query for social media links */
 
 @media screen and (max-width: 768px) {
     .social-networks > li {
