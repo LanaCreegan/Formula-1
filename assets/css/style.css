@@ -31,11 +31,11 @@ h1, h2 {
 }
 
 #logo {
-    text-align: center;
     letter-spacing: 0.25rem;
     font-size: 200%;
-    margin-left: 0.1rem;
+    line-height: 2px;
     text-decoration: none;
+    line-height: 50px;
 }
 
 #logo a:hover, a:visited, a:link, a:active {
@@ -47,11 +47,11 @@ h1, h2 {
 #menu {
     font-size: 100%;
     letter-spacing: 0.125rem;
-    text-align: center;
+    text-align: end;
     
 }
 
-#menu, #logo {
+#menu {
     line-height: 2.00rem;
 }
 
