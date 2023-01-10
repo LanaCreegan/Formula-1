@@ -33,9 +33,7 @@ h1, h2 {
 #logo {
     letter-spacing: 0.25rem;
     font-size: 200%;
-    line-height: 2px;
     text-decoration: none;
-    line-height: 50px;
 }
 
 #logo a:hover, a:visited, a:link, a:active {
@@ -51,7 +49,7 @@ h1, h2 {
     
 }
 
-#menu {
+#menu, #logo {
     line-height: 2.00rem;
 }
 
