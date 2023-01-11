@@ -23,15 +23,19 @@ h1, h2 {
     
 }
 
+.header-container {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
 .page-width {
-    
     max-width: 1000px;
     margin: 0 auto;
     padding: 0 16px;
 }
 
 #logo {
-    text-align: center;
     letter-spacing: 0.25rem;
     font-size: 200%;
     margin-left: 0.1rem;
@@ -47,8 +51,6 @@ h1, h2 {
 #menu {
     font-size: 100%;
     letter-spacing: 0.125rem;
-    text-align: center;
-    
 }
 
 #menu, #logo {
@@ -57,10 +59,8 @@ h1, h2 {
 
 #menu li {
     list-style-type: none;
-    text-align: center;
     display: inline-block;
-    margin: 0.75rem;
-    
+    margin: 0.75rem; 
 }
 
 #menu a {
@@ -84,6 +84,7 @@ section.hero {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
  section.hero .page-width {
     height: 80vh;
     display: flex;
@@ -294,6 +295,13 @@ section.video {
     color: #fafafa;
 }
 
+/* Thank you page */
+.contact.thank-you .main-container{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
 
 
 /* footer */
