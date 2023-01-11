@@ -19,5 +19,23 @@ This is the website for Formula 1, which has information on the history of the s
  ### Colour
  The colour on the website is based around the hero images, which are the Ferrari cars #D40000. I then chose colours that complimented this colour and were neutral so it made the red stand out and be eye catching. 
 
-### Text
+### Font
 Hind is used for the headings and Montserrat is used for the main text. Sans-serif is used as the backup text. These fonts were chosen to give the website a simple but modern look. 
+
+## Features
+ ### Navigation Bar
+ - The navigation bar is located on all 3 pages
+ 
+ ### Hero image
+ - The home page and teams page both contain hero images
+
+ ### What is Formula 1
+ - This section contains a brief history of the different time periods in Formula 1
+ - It also conatins images of Formula 1 cars that are related to these time periods
+
+ ### Race highlights
+ - A Youtube video has been added of race highlights of the Sao Paulo Grand Prix so users can see what happens in a race
+
+ ### Teams about
+ - This section contains information about each team and images of each team logo
+ - It is orgainsed in 2x5 boxes
