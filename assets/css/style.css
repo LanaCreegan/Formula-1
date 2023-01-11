@@ -388,4 +388,8 @@ footer {
     .header-container {
         flex-direction: column;
     }
+
+    section.thank-you {
+        height: 50vh;
+    }
 }
