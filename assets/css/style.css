@@ -171,8 +171,21 @@ section.video {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    width: 600px;
+    margin: 0 auto;
 }
 
+.video-container iframe{
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16/9;
+}
+
+@media screen and (max-width: 768px) {
+    .video-container {
+        width: 100%;
+    }
+}
 .heading {
     text-align: center;
     padding-top: 1%;
@@ -360,10 +373,19 @@ footer {
         max-width: 100%;
     }
 
+    .text-container {
+        width: 100%;
+        max-width: 100%;
+        padding-left: 0px;
+    }
+
     .team-container .team-box {
         max-width: 100%;
         width: 100%;
         flex-wrap: wrap;
     }
 
+    .header-container {
+        flex-direction: column;
+    }
 }
