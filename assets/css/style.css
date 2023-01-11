@@ -119,7 +119,7 @@ section.hero {
 /* media query for the hero image */
 
 @media screen and (max-width: 768px) {
-    section.hero .page-width {
+    section.hero .page-width, section.teams-hero .page-width {
         height: 50vh;
     }
 }
