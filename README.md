@@ -14,3 +14,10 @@ This is the website for Formula 1, which has information on the history of the s
   - Have a better understanding of the sport
   - Know more about the teams and drivers
   - Sign up to the newsletter to keep up to date with news about Formula 1
+
+## Design
+ ### Colour
+ The colour on the website is based around the hero images, which are the Ferrari cars #D40000. I then chose colours that complimented this colour and were neutral so it made the red stand out and be eye catching. 
+
+### Text
+Hind is used for the headings and Montserrat is used for the main text. Sans-serif is used as the backup text. These fonts were chosen to give the website a simple but modern look. 
