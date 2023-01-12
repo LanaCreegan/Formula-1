@@ -22,6 +22,10 @@ This is the website for Formula 1, which has information on the history of the s
  Hind is used for the headings and Montserrat is used for the main text. Sans-serif is used as the backup text. These fonts were chosen to give the website a simple but modern look. 
 
 ## Wireframes 
+ The wireframes for the websites can be found below. I decided not to put text above the social media links in the footer as I preferred the look without text. I also put text on in hero image in the center instead of to the right as I also preferred how this looked.
+ - [Wireframe 1](./assets/images/readme-images/wireframe-1.png)
+ - [Wireframe 2](./assets/images/readme-images/wireframe-2.png)
+ - [Wireframe 3](./assets/images/readme-images/wireframe-3.png)
 
 ## Features
  ### Navigation Bar
@@ -66,13 +70,13 @@ This is the website for Formula 1, which has information on the history of the s
 ## Technologies
 ### Testing
 The W3C Markup Validation Service was used to validate the HTML of the website, which passed with no errors and warnings
-- [html-validator-1](./assets/images/readme-images/html-validator-1.png)
-- [html-validator-2](./assets/images/readme-images/html-validator-2.png)
-- [html-validator-3](./assets/images/readme-images/html-validator-3.png)
-- [html-validator-4](./assets/images/readme-images/html-validator-4.png)
+- [HTML Validator 1](./assets/images/readme-images/html-validator-1.png)
+- [HTML Validator 2](./assets/images/readme-images/html-validator-2.png)
+- [HTML Validator 3](./assets/images/readme-images/html-validator-3.png)
+- [HTML Validator 4](./assets/images/readme-images/html-validator-4.png)
 
 The W3C CSS Validation Service was used to validate the CSS of the website, which passed with no errors. There was one warning which relates to the imported style sheets for Google Fonts.
-- [css-validator](./assets/images/readme-images/css-validator.png)
+- [CSS Validator](./assets/images/readme-images/css-validator.png)
 
 ## User Stories 
 ### First time user 
@@ -112,6 +116,7 @@ The website was tested on the following devices
 - There was a gap to the right of the hero image leaving a white space. This was fixed by adding a height of 80vh
 - Not being able to see text that was typed into the name section of the newsletter form. This was fixed by changing the colour  to #323031
 - The Youtube video overflowing the screen when being viewd on mobile. This was fixed by adding media query width of 100%
+
 
 # Deployment 
 ## GitHub Pages
