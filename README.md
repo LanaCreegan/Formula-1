@@ -68,4 +68,11 @@ As a first time user, I want to learn more about the history of Formula 1
 As a first time user, I want to see what happens in a race
 - This is done by a Youtube video of the Sao Paulo Grand Prix highlights underneath the heading "Check out some race highlights below"
 
+### Returning user
+As a returning user, I want to know more about the teams
+- This is done by the "What about teams?" section in the teams page. Under the "What about teams?" heading there is 5 boxes in rows of 2, with descriptions about each team, who is driving for each team and an image of their logo
+
+As a returning user, I want to keep up to date about news in Formula 1
+- This is done by a form in the Contact page. Users can enter their name and email to sign up to a newsletter. Once they press the sign up button the page reloads with a message to let them know the sign up was successful
+
  
