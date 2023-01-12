@@ -35,7 +35,9 @@ h1, h2 {
     margin: 0 auto;
     padding: 0 16px;
 }
-
+section{
+    padding:20px 0;
+}
 #logo {
     text-align: center;
     letter-spacing: 0.25rem;
@@ -213,7 +215,10 @@ section.video {
     justify-content: center;
     align-items: flex-end;
  }
-
+ section.teams-hero h2{
+    color:white;
+    padding-bottom: 40px;
+ }
 .team-container {
     position: relative;
     display: flex;
@@ -344,7 +349,6 @@ footer {
 .disclaimer {
     text-align: center;
     margin-top: 35px;
-    padding-left: 5%;
 }
 /* media query for social media links */
 
