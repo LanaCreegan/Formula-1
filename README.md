@@ -6,8 +6,7 @@ This is the website for Formula 1, which has information on the history of the s
 
   ### First Time User
    #### As a first time user of the website I want to
-   - Find out what Formula 1 is about. 
-   - Learn about the history of the sport
+   - Learn about the history of Formula 1
    - Watch a video to see what happens in a race
 
  #### As a returning user of the website I want to
@@ -74,5 +73,55 @@ As a returning user, I want to know more about the teams
 
 As a returning user, I want to keep up to date about news in Formula 1
 - This is done by a form in the Contact page. Users can enter their name and email to sign up to a newsletter. Once they press the sign up button the page reloads with a message to let them know the sign up was successful
+
+## Further testing
+The following was tested regularly
+- Social media links in the footer of the page
+- Newsletter form so user is brought to a thank you page
+
+The website was tested on the following browsers
+- Google Chrome
+- Safari
+- Microsoft Edge
+
+The website was tested on the following devices
+- iPhone
+- Samsung Galaxy S22
+- ASUS 15" laptop
+
+## Known bugs
+- The logo had a hyperlink underline. It was fixed by adding psuedo classes hover, visited, link, active.
+- There was a gap to the right of the hero image leaving a white space. This was fixed by adding a height of 80vh
+- Not being able to see text that was typed into the name section of the newsletter form. This was fixed by changing the colour  to #323031
+- The Youtube video overflowing the screen when being viewd on mobile. This was fixed by adding media query width of 100%
+
+# Deployment 
+## GitHub Pages
+The project was deployed to GitHub Pages by following these steps 
+ - Log in to GitHub and go to the GitHub Repository. 
+ - Navigate to the settings tab. 
+ - Scroll down to pages under the Code and Automation section. 
+ - Under branch select main 
+ - The page automatically refreshes and the link for the website is displayed at the top of the pages section 
+
+ ## Fork
+ The repository can be forked by following these steps
+ - Log into GitHub and go to the GitHub Repository 
+ - Locate fork in the top right hand corner of the page and click on it
+ - Select an owner for the forked repository 
+ - Then select if you want to copy the default branch or all branches to the new fork
+ - Click create fork
+
+ ## Clone
+ The repository can be cloned by following these steps
+ - Log into GitHub and go to the GitHub Repository 
+ - Click on the code button on the right above the files list
+ - Then select HTTPS and copy the URL
+ - Open Git Bash
+ - Change the current working to the location you want the cloned directory to be
+ - Type git clone and paste the URL from earlier
+ - Press enter to create the local clone
+
+ 
 
  
