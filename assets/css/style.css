@@ -226,7 +226,6 @@ section.video {
     align-items: stretch;
     flex-wrap: wrap;
     padding: 30px;
-    margin-top: 8%;
     column-gap: 16px;
     row-gap: 26px;
 }
@@ -350,6 +349,7 @@ footer {
     text-align: center;
     margin-top: 35px;
 }
+
 /* media query for social media links */
 
 @media screen and (max-width: 768px) {
