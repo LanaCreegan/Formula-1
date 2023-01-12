@@ -122,6 +122,41 @@ The project was deployed to GitHub Pages by following these steps
  - Type git clone and paste the URL from earlier
  - Press enter to create the local clone
 
+# Credit 
+## Content
+Content for the website was from the following websites
+- History of fourmula 1 came from <a href="https://en.wikipedia.org/wiki/Formula_One#:~:text=History,-Main%20article%3A%20History&text=The%20Formula%20One%20series%20originated,races%20taking%20place%20that%20year.">here</a>
+- Ferrari came from <a href="https://www.creditplus.co.uk/blog/history-of-ferrari-in-formula-one/">here</a>
+- Alpine came from <a href="https://f1experiences.com/blog/team-enstone-tracing-the-roots-of-the-alpine-f1-team">here</a>
+- Aston Martin came from <a href="https://boardroom.tv/aston-martin-f1-team/">here</a>
+- Haas came from <a href="https://www.motorsportmagazine.com/database/teams/haas-formula-1-team/">here</a>
+- McLaren came from <a href="https://www.motorsportmagazine.com/database/teams/mclaren/">here</a>
+- Mercedes came from <a href="https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One">here</a>
+- Red Bull came from <a href="https://en.wikipedia.org/wiki/Red_Bull_Racing">here</a>
+- Alpha Tauri came from <a href="https://en.wikipedia.org/wiki/Scuderia_AlphaTauri">here</a> and <a href="https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso">here</a>
+- Alfa Romeo came from <a href="https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One">here</a>
+- Willaims came from <a href="https://www.racefans.net/f1-information/f1-teams/williams/">here</a> and <a href="https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering#:~:text=The%20team%20was%20formed%20in,and%20original%20owner%2C%20Frank%20Williams.">here</a>
+
+## Media
+- Ferrari hero image from <a href=""></a>
+- Old F1 car from <a href=""></a>
+- Middle F1 car from <a href=""></a>
+- New F1 car from <a href=""></a>
+- Ferrari logo from <a href=""></a>
+- Alpine logo from <a href=""></a>
+- Aston Martin logo from <a href=""></a>
+- Haas logo from <a href=""></a>
+- McLaren logo from <a href=""></a>
+- Mercedes logo from <a href=""></a>
+- Red Bull logo from <a href=""></a>
+- Alpha Tauri logo from <a href=""></a>
+- Alfa Romeo logo from <a href=""></a>
+- Williams logo from <a href=""></a>
+
+## Code
+- Flex box tutorial came from <a href=""></a>
+- Code to remove underline from logo came from <a href="https://stackoverflow.com/questions/2789703/remove-blue-underline-from-link">here</a>
+- Newsletter form was based on the Love Running walkthrough project
  
 
  
