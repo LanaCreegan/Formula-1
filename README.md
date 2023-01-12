@@ -138,23 +138,23 @@ Content for the website was from the following websites
 - Willaims came from <a href="https://www.racefans.net/f1-information/f1-teams/williams/">here</a> and <a href="https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering#:~:text=The%20team%20was%20formed%20in,and%20original%20owner%2C%20Frank%20Williams.">here</a>
 
 ## Media
-- Ferrari hero image from <a href=""></a>
-- Old F1 car from <a href=""></a>
-- Middle F1 car from <a href=""></a>
-- New F1 car from <a href=""></a>
-- Ferrari logo from <a href=""></a>
-- Alpine logo from <a href=""></a>
-- Aston Martin logo from <a href=""></a>
-- Haas logo from <a href=""></a>
-- McLaren logo from <a href=""></a>
-- Mercedes logo from <a href=""></a>
-- Red Bull logo from <a href=""></a>
-- Alpha Tauri logo from <a href=""></a>
-- Alfa Romeo logo from <a href=""></a>
-- Williams logo from <a href=""></a>
+- Ferrari hero image from <a href="https://unsplash.com/photos/B87zMorEZRo">here</a>
+- Old F1 car from <a href="https://unsplash.com/photos/licYp8spO1A">here</a>
+- Middle F1 car from <a href="https://unsplash.com/photos/BFP_ApRwBI0">here</a>
+- New F1 car from <a href="https://unsplash.com/photos/g7V4CYl_nos">here</a>
+- Ferrari logo from <a href="https://seeklogo.com/vector-logo/53755/ferrari">here</a>
+- Alpine logo from <a href="https://seeklogo.com/vector-logo/400196/alpine">here</a>
+- Aston Martin logo from <a href="https://seeklogo.com/vector-logo/12500/aston-martin">here</a>
+- Haas logo from <a href="https://seeklogo.com/vector-logo/395650/haas-f1-team">here</a>
+- McLaren logo from <a href="https://seeklogo.com/vector-logo/379404/mclaren">here</a>
+- Mercedes logo from <a href="https://seeklogo.com/vector-logo/406797/mercedes-amg-f1">here</a>
+- Red Bull logo from <a href="https://seeklogo.com/vector-logo/406796/red-bull-racing-f1">here</a>
+- Alpha Tauri logo from <a href="https://seeklogo.com/vector-logo/423760/scuderia-alpha-tauri">here</a>
+- Alfa Romeo logo from <a href="https://seeklogo.com/vector-logo/286039/alfa-romeo">here</a>
+- Williams logo from <a href="https://seeklogo.com/vector-logo/410093/williams-racing">here</a>
 
 ## Code
-- Flex box tutorial came from <a href=""></a>
+- Flex box tutorial came from <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">here</a> 
 - Code to remove underline from logo came from <a href="https://stackoverflow.com/questions/2789703/remove-blue-underline-from-link">here</a>
 - Newsletter form was based on the Love Running walkthrough project
  
