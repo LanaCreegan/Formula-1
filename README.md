@@ -56,4 +56,16 @@ This is the website for Formula 1, which has information on the history of the s
 The W3C Markup Validation Service was used to validate the HTML of the website, which passed with no errors and warnings
 
 The W3C CSS Validation Service was used to validate the CSS of the website, which passed with no errors. There was one warning which relates to the imported style sheets for Google Fonts.
+
+## User Stories 
+### First time user 
+As a first time user, I want to see if I can find out information about Formula 1
+- This is done by the hero image which contains an eye catching red car, along with text on the bottom saying a beginners guide to Formula 1
+
+As a first time user, I want to learn more about the history of Formula 1
+- This is done by the heading "What is Formula 1?" Under this heading there is three sections with descriptions about three different time periods within the sport and images of Formula 1 cars alongside the descriptions that match up with the relevant time periods
+
+As a first time user, I want to see what happens in a race
+- This is done by a Youtube video of the Sao Paulo Grand Prix highlights underneath the heading "Check out some race highlights below"
+
  
