@@ -96,7 +96,7 @@ section.hero {
     align-items: flex-end;
  }
 
- section.hero h1{
+ section.hero h2{
     color:white;
     padding-bottom: 40px;
  }
@@ -116,9 +116,7 @@ section.hero {
     position: absolute;
 }
 
-#cover-text h2 {
-    color: #fafffd;
-}
+
 
 /* media query for the hero image */
 
