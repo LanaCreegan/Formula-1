@@ -26,18 +26,19 @@ This is the website for Formula 1, which has information on the history of the s
 
 ## Features
  ### Navigation Bar
- - The navigation bar is located on all 3 pages
+ - The navigation bar features on all 3 pages 
+ - The page that the user is on is underlined 
 
  ### Hero image 
  - The home page and teams page both contain hero images
  
  ### What is Formula 1
- - This section contains a brief history of the different time periods in Formula 1
- - It also conatins images of Formula 1 cars that are related to these time periods
+ - This section contains a brief history of 3 time periods within Formula 1 
+ - Each section has an image of a Formula 1 car that matches these time periods 
 
  ### Race highlights
  - A Youtube video has been added of race highlights of the Sao Paulo Grand Prix so users can see what happens in a race
 
- ### Teams about
- - This section contains information about each team and images of each team logo
- - It is orgainsed in 2x5 boxes
+### About Teams 
+ - This section contains 2x5 boxes 
+ - These boxes contain information about each team along with an image of the team logo 
