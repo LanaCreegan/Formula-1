@@ -27,37 +27,52 @@ This is the website for Formula 1, which has information on the history of the s
  ### Navigation Bar
  - The navigation bar features on all 3 pages 
  - The page that the user is on is underlined 
+   ![navigation-bar](./assets/images/readme-images/navigation-bar.png)
+
 
  ### Hero image 
  - The home page and teams page both contain hero images
+ ![hero-image-home](./assets/images/readme-images/hero-image-home.png)
+ ![hero-image-teams](./assets/images/readme-images/hero-image-teams.png)
  
  ### What is Formula 1
  - This section contains a brief history of 3 time periods within Formula 1 
  - Each section has an image of a Formula 1 car that matches these time periods 
+ ![what-is-formula-1](./assets/images/readme-images/what-is-formula-1.png)
 
  ### Race highlights
  - A Youtube video has been added of race highlights of the Sao Paulo Grand Prix so users can see what happens in a race
+ ![race-highlights](./assets/images/readme-images/race-highlights.png)
 
 ### About Teams 
  - This section contains 2x5 boxes 
  - These boxes contain information about each team along with an image of the team logo 
+ ![teams-about](./assets/images/readme-images/teams-about-page.png)
 
  ### Newletter  
- - Contains a form with a sign up button in which the user can provide their name and email to sign up to a newsletter 
+ - Contains a form with a sign up button in which the user can provide their name and email to sign up to a newsletter
+ ![contact-page-newsletter](./assets/images/readme-images/contact-page.png) 
 
  ### Thank you 
  - Contact page refreshes after entering in name and email in sign up form to show a thank you message 
+ ![thank-you](./assets/images/readme-images/thank-you-page.png)
 
  ### Footer
  - Features on all 3 pages
  - Conatains icons that link to their corresponding socail media websites
  - Also features a disclaimer 
+ ![footer](./assets/images/readme-images/footer.png)
 
 ## Technologies
 ### Testing
 The W3C Markup Validation Service was used to validate the HTML of the website, which passed with no errors and warnings
+- [html-validator-1](./assets/images/readme-images/html-validator-1.png)
+- [html-validator-2](./assets/images/readme-images/html-validator-2.png)
+- [html-validator-3](./assets/images/readme-images/html-validator-3.png)
+- [html-validator-4](./assets/images/readme-images/html-validator-4.png)
 
 The W3C CSS Validation Service was used to validate the CSS of the website, which passed with no errors. There was one warning which relates to the imported style sheets for Google Fonts.
+- [css-validator](./assets/images/readme-images/css-validator.png)
 
 ## User Stories 
 ### First time user 
