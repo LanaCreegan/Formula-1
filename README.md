@@ -50,3 +50,10 @@ This is the website for Formula 1, which has information on the history of the s
  - Features on all 3 pages
  - Conatains icons that link to their corresponding socail media websites
  - Also features a disclaimer 
+
+## Technologies
+### Testing
+The W3C Markup Validation Service was used to validate the HTML of the website, which passed with no errors and warnings
+
+The W3C CSS Validation Service was used to validate the CSS of the website, which passed with no errors. There was one warning which relates to the imported style sheets for Google Fonts.
+ 
