@@ -279,13 +279,13 @@ section.video {
 }
 
 .signup-header {
-    color: #fafafa; 
+    color: #fafffd; 
     margin: 10px;
     text-align: center;
 }
 
 .signup-text {
-    color: black;
+    color: #323031;
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
