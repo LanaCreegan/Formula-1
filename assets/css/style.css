@@ -30,14 +30,15 @@ h1, h2 {
 }
 
 .page-width {
-    
     max-width: 1000px;
     margin: 0 auto;
     padding: 0 16px;
 }
-section{
+
+section {
     padding:20px 0;
 }
+
 #logo {
     text-align: center;
     letter-spacing: 0.25rem;
@@ -144,18 +145,18 @@ section.hero {
     line-height: 10;
 }
 
-.service-container{
+.about-container {
     margin-top: 32px;
     margin-bottom: 32px;
     display: flex;
 }
 
-.image-container{
+.image-container {
     width: 33%;
     max-width: 33%;
 }
 
-.text-container{
+.text-container {
     width: 64%;
     max-width: 64%;
     vertical-align: top;
@@ -185,11 +186,14 @@ section.video {
     aspect-ratio: 16/9;
 }
 
+/* media query for video on home page */
+
 @media screen and (max-width: 768px) {
     .video-container {
         width: 100%;
     }
 }
+
 .heading {
     text-align: center;
     padding-top: 1%;
@@ -215,10 +219,12 @@ section.video {
     justify-content: center;
     align-items: flex-end;
  }
+
  section.teams-hero h2{
     color: #fafffd;
     padding-bottom: 40px;
  }
+
 .team-container {
     position: relative;
     display: flex;
@@ -371,7 +377,7 @@ footer {
 /* For smaller screens size from 768px and down */
 
 @media screen and (max-width: 768px) {
-    .service-container{
+    .about-container{
         flex-direction: column;
     }
 
