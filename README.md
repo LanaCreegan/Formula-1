@@ -42,3 +42,11 @@ This is the website for Formula 1, which has information on the history of the s
 ### About Teams 
  - This section contains 2x5 boxes 
  - These boxes contain information about each team along with an image of the team logo 
+
+ ### Newletter  
+ - Contains a form with a sign up button in which the user can provide their name and email to sign up to a newsletter 
+
+ ### Footer
+ - Features on all 3 pages
+ - Conatains icons that link to their corresponding socail media websites
+ - Also features a disclaimer 
