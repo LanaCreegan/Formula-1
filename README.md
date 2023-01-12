@@ -1,3 +1,5 @@
+<a href="https://lanacreegan.github.io/Formula-1/">Formual 1 website</a>
+
 ## Introduction
 
 This is the website for Formula 1, which has information on the history of the sport, what it’s about and its teams. The website is for people who are new to the sport and want to learn more about it. 
@@ -22,7 +24,7 @@ This is the website for Formula 1, which has information on the history of the s
  Hind is used for the headings and Montserrat is used for the main text. Sans-serif is used as the backup text. These fonts were chosen to give the website a simple but modern look. 
 
 ## Wireframes 
- The wireframes for the websites can be found below. I decided not to put text above the social media links in the footer as I preferred the look without text. I also put text on in hero image in the center instead of to the right as I also preferred how this looked.
+ The wireframes for the websites can be found below. I decided not to put text above the social media links in the footer as I preferred the look without text. I also put text on in hero image in the center instead of to the right and moved the logo to the right and menu to the left as I also preferred how this looked.
  - [Wireframe 1](./assets/images/readme-images/wireframe-1.png)
  - [Wireframe 2](./assets/images/readme-images/wireframe-2.png)
  - [Wireframe 3](./assets/images/readme-images/wireframe-3.png)
@@ -77,6 +79,12 @@ The W3C Markup Validation Service was used to validate the HTML of the website, 
 
 The W3C CSS Validation Service was used to validate the CSS of the website, which passed with no errors. There was one warning which relates to the imported style sheets for Google Fonts.
 - [CSS Validator](./assets/images/readme-images/css-validator.png)
+
+Lighthouse was used to test the performance
+- [Home Page lighthouse](./assets/images/readme-images/home-page-lighthouse.png)
+- [Teams Page lighthouse](./assets/images/readme-images/teams-page-lighthouse.png)
+- [Contact Page lighthouse](./assets/images/readme-images/contact-page-lighthouse.png)
+
 
 ## User Stories 
 ### First time user 
